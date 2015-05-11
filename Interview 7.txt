@@ -1,0 +1,60 @@
+ELEMENTS
+Visualization 1
+Visualization 2
+Visualization 3
+Visualization 4
+Visualization 5
+Visualization 6
+Visualization 7
+Visualization 8
+Visualization 9
+Visualization 10
+Visualization 11
+Visualization 12
+END ELEMENTS
+
+CONSTRUCTS
+small:large
+low density:high density
+less nested:heavily nested
+simple:complex
+many inner rings with the same size:few outer rings with the same size
+coarse structure:fine structure
+few inner gray rings:many inner gray rings
+few outer rings:many outer rings
+nested gray rings:no nested gray rings
+less yellow share:high yellow share
+semicircular positioning of elements:circular positioning of elements
+long strings of purple disks:short strings of purple disks
+thin edge of outer ring:thick edge of outer ring
+loose structure:compact structure
+elements distributed equally:elements leaning to the right
+artificial:natural
+few purple disks with the same size:many purple disks with the same size
+symmetrical:asymmetric
+END CONSTRUCTS
+
+RATINGS
+5	5	5	3	3	5	5	1	1	1	2	3
+1	3	5	1	1	3	5	3	1	5	3	1
+3	2	3	3	5	4	1	4	1	1	2	2
+4	4	5	2	5	1	1	4	1	1	1	1
+5	4	1	1	2	5	1	1	3	5	5	3
+4	5	5	3	5	5	1	1	2	1	4	1
+5	1	5	5	5	5	5	1	5	1	2	3
+3	5	5	1	5	5	1	1	1	5	1	1
+1	1	1	1	1	1	1	1	1	5	1	1
+5	5	2	2	2	5	3	3	3	1	5	3
+1	5	5	1	3	1	5	5	5	5	5	5
+1	5	5	1	1	1	5	5	5	5	5	5
+5	1	1	1	1	1	1	1	1	1	1	1
+3	5	3	4	3	5	4	3	1	1	4	2
+3	3	1	2	1	4	1	3	2	1	4	1
+5	5	1	1	5	1	1	1	1	1	1	1
+1	3	1	1	1	1	1	1	1	1	1	1
+5	5	3	5	5	5	4	4	2	5	5	3
+END RATINGS
+
+RANGE
+1 5
+END RANGE

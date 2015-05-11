@@ -1,0 +1,70 @@
+ELEMENTS
+Visualization 1
+Visualization 2
+Visualization 3
+Visualization 4
+Visualization 5
+Visualization 6
+Visualization 7
+Visualization 8
+Visualization 9
+Visualization 10
+Visualization 11
+Visualization 12
+END ELEMENTS
+
+CONSTRUCTS
+thin edge of outer ring:thick edge of outer ring
+low density:high density
+little nested:heavily nested
+simple:complex
+few gray rings:many gray rings
+few outer gray rings:many outer gray rings
+elements distributed equally:elements leaning to the right
+less yellow share:high yellow share
+unstructured:structured
+one layer of purple disks:multiple layers of purple disks
+predominant simple purple disks:predominant complex purple disks
+no isolated purple disks:isolated pruple disks
+centered:off-centered
+not chaotic:chaotic
+chaotic:logical
+uncomplicated:complicated
+harmonic:inharmonic
+homogeneous inner gray rings:heterogeneous inner gray rings
+flat:deep
+area with dominant color:no area with dominant color
+dynamic:static
+symmetrical:asymmetric
+constantly increasing element size within a gray ringd:no constantly increasing element size within a gray ring
+END CONSTRUCTS
+
+RATINGS
+4	5	4	5	5	4	4	1	2	1	3	4
+5	4	3	4	3	3	5	4	4	5	2	4
+4	2	4	4	5	4	1	4	1	1	5	1
+4	5	3	5	4	5	4	2	4	3	2	4
+3	4	4	3	5	4	3	4	1	2	4	3
+2	4	5	1	4	3	1	1	1	2	1	1
+4	3	2	2	5	5	5	4	2	2	4	4
+3	2	3	3	4	1	2	2	4	4	2	4
+3	2	3	4	5	5	2	4	4	4	5	2
+5	5	5	5	5	5	1	1	1	1	1	1
+4	3	3	3	2	4	3	2	3	2	4	3
+1	1	1	1	5	1	1	1	1	1	1	1
+3	3	4	3	4	3	5	3	1	3	3	1
+2	4	3	2	3	4	2	2	2	2	2	3
+4	2	4	3	4	5	3	4	4	4	4	4
+2	4	3	3	3	3	2	2	4	2	4	2
+4	3	2	2	3	4	2	4	3	3	3	2
+2	2	2	2	2	3	4	2	2	4	5	2
+5	5	4	4	4	4	5	2	4	2	3	4
+4	4	2	2	1	2	2	3	2	5	4	1
+3	2	3	4	5	5	1	5	1	1	5	1
+5	5	5	5	5	5	1	1	1	5	5	1
+5	5	5	5	5	5	2	1	4	5	5	5
+END RATINGS
+
+RANGE
+1 5
+END RANGE

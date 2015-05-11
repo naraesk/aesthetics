@@ -1,0 +1,42 @@
+ELEMENTS
+Visualization 1
+Visualization 2
+Visualization 3
+Visualization 4
+Visualization 5
+Visualization 6
+Visualization 7
+Visualization 8
+Visualization 9
+Visualization 10
+Visualization 11
+Visualization 12
+END ELEMENTS
+
+CONSTRUCTS
+low density:high density
+little nested:heavily nested
+simple:complex
+few outer rings:many outer rings
+elements leaning to the right:elemnts distributed equally
+few purple disks:many purple disks
+many purple disks with the same size:few purple disks with the same size
+regular:irregular
+open strings:closed strings
+END CONSTRUCTS
+
+RATINGS
+3	3	2	3	3	2	4	3	5	4	1	4
+4	4	4	3	4	3	4	2	1	1	3	2
+4	5	5	3	3	5	4	2	2	1	1	3
+4	5	5	2	4	5	1	1	1	5	1	1
+3	4	5	1	2	5	5	4	5	4	4	4
+5	5	3	5	3	4	4	1	3	1	2	4
+2	2	1	1	4	3	3	1	5	3	3	3
+3	3	2	1	4	1	4	2	4	1	2	4
+2	4	3	1	1	1	5	1	4	5	1	5
+END RATINGS
+
+RANGE
+1 5
+END RANGE

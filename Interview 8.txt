@@ -1,0 +1,56 @@
+ELEMENTS
+Visualization 1
+Visualization 2
+Visualization 3
+Visualization 4
+Visualization 5
+Visualization 6
+Visualization 7
+Visualization 8
+Visualization 9
+Visualization 10
+Visualization 11
+Visualization 12
+END ELEMENTS
+
+CONSTRUCTS
+long strings of purple disks:short strings of purple disks
+small:large
+heavily nested:little nested
+few outer rings:many outer rings
+few purple disks:many purple disks
+harmonical:inharmonic
+simple:complex
+high density:low density
+few purple disks without blue segment:many purple disks without blue segment
+many purple disks with a similar structure:few purple disks with a similar structure
+detailed: not detailed
+closed:open
+thick edge of outer ring:thin edge of outer ring
+centered:off-centered
+uncomplicated:complicated
+orderly:chaotic
+END CONSTRUCTS
+
+RATINGS
+2	4	5	5	5	5	1	5	1	5	4	1
+5	5	4	5	5	5	5	1	1	1	2	2
+2	3	3	2	1	3	5	3	5	5	3	5
+2	5	5	1	5	2	1	1	1	3	1	1
+5	5	4	4	4	5	5	1	4	1	2	4
+4	2	4	1	5	2	5	2	1	4	5	1
+4	2	3	2	5	4	5	1	2	2	3	3
+5	2	4	4	4	5	5	3	2	2	5	2
+2	5	4	5	5	5	5	4	5	5	5	5
+4	5	4	5	4	5	5	5	5	5	5	5
+5	1	5	1	1	1	1	5	2	4	3	4
+4	3	2	3	4	3	1	2	1	2	4	1
+5	5	4	5	2	2	5	5	1	5	5	1
+4	1	3	2	3	1	1	3	1	4	5	1
+4	3	5	1	5	3	1	1	1	3	4	3
+4	2	4	2	5	3	4	2	2	4	5	3
+END RATINGS
+
+RANGE
+1 5
+END RANGE
